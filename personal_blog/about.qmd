@@ -1,5 +1,8 @@
 ---
 title: "About Me"
+about:
+    template: broadside
+    image: profile_photo.png
 ---
 
 Hey I'm Sasha.  I'm currently an ML Engineer at Wayve AI, where we're building platform agnostic self-driving technology.
