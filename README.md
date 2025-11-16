@@ -1,2 +1,2 @@
-# quarto_personal_website
+# Info
  Sasha's Personal Website - Built with Quarto
